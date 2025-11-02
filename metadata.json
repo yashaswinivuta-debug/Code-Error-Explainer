@@ -1,0 +1,5 @@
+{
+  "name": "Code Error Explainer",
+  "description": "An expert programming assistant that analyzes programming error messages and helps the user understand what went wrong and how to fix it using AI.",
+  "requestFramePermissions": []
+}
